@@ -1,3 +1,3 @@
 # jenkins-job-sample
 
-Lorem ipsum
+Lorem ipsum dolor
